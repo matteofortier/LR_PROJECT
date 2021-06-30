@@ -1,4 +1,4 @@
-### Project Proposal: Linear Regression on_
+### Project Proposal: Linear Regression on University Course Ratings
 
 *Matteo Fortier*
 30/06/21
