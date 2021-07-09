@@ -1,6 +1,6 @@
 # LR_PROJECT
 
 - [Project Proposal](<./project_proposal.md>)
-- MVP
+- [MVP](<./mvp.md>)
 - Writeup
 - Slides
